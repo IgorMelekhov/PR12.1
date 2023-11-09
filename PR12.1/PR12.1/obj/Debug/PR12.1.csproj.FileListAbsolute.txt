@@ -1,0 +1,15 @@
+C:\Users\79537\source\repos\PR12.1\PR12.1\bin\Debug\PR12.1.exe.config
+C:\Users\79537\source\repos\PR12.1\PR12.1\bin\Debug\PR12.1.exe
+C:\Users\79537\source\repos\PR12.1\PR12.1\bin\Debug\PR12.1.pdb
+C:\Users\79537\source\repos\PR12.1\PR12.1\obj\Debug\PR12.1.csproj.AssemblyReference.cache
+C:\Users\79537\source\repos\PR12.1\PR12.1\obj\Debug\PR12.1.csproj.CoreCompileInputs.cache
+C:\Users\79537\source\repos\PR12.1\PR12.1\obj\Debug\PR12.1.exe
+C:\Users\79537\source\repos\PR12.1\PR12.1\obj\Debug\PR12.1.pdb
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR12.1\PR12.1\bin\Debug\PR12.1.exe.config
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR12.1\PR12.1\bin\Debug\PR12.1.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR12.1\PR12.1\bin\Debug\PR12.1.pdb
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR12.1\PR12.1\obj\Debug\PR12.1.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR12.1\PR12.1\obj\Debug\PR12.1.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR12.1\PR12.1\obj\Debug\PR12.1.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR12.1\PR12.1\obj\Debug\PR12.1.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка (2)\PR12.1\PR12.1\obj\Debug\PR12.1.pdb
